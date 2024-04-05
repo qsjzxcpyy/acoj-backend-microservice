@@ -1,4 +1,4 @@
-![image](https://github.com/qsjzxcpyy/acoj-backend-microservice/assets/104427824/6800f574-a02f-427c-b9cb-e1794bed7a72)# acoj-backend-microservice
+# acoj-backend-microservice
 
 #### 介绍
 ​	基于Spring Cloud 微服务 + MQ + Docker（+ Vue 3 + Arco Design）的编程题目在线判题系统。系统能够根据管理员 预设的题目用例对用户提交的代码进行执行和评测，自主实现的代码沙箱可作为独立服务供其他开发者调用。
