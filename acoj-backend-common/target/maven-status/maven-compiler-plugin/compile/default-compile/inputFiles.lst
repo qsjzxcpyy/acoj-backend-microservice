@@ -1,0 +1,15 @@
+D:\Message_code_storage\project\AC_OJ\acoj-backend-microservice\acoj-backend-common\src\main\java\com\qsj\acojbackendcommon\constant\UserConstant.java
+D:\Message_code_storage\project\AC_OJ\acoj-backend-microservice\acoj-backend-common\src\main\java\com\qsj\acojbackendcommon\common\DeleteRequest.java
+D:\Message_code_storage\project\AC_OJ\acoj-backend-microservice\acoj-backend-common\src\main\java\com\qsj\acojbackendcommon\exception\ThrowUtils.java
+D:\Message_code_storage\project\AC_OJ\acoj-backend-microservice\acoj-backend-common\src\main\java\com\qsj\acojbackendcommon\utils\NetUtils.java
+D:\Message_code_storage\project\AC_OJ\acoj-backend-microservice\acoj-backend-common\src\main\java\com\qsj\acojbackendcommon\common\ResultUtils.java
+D:\Message_code_storage\project\AC_OJ\acoj-backend-microservice\acoj-backend-common\src\main\java\com\qsj\acojbackendcommon\constant\CommonConstant.java
+D:\Message_code_storage\project\AC_OJ\acoj-backend-microservice\acoj-backend-common\src\main\java\com\qsj\acojbackendcommon\config\JsonConfig.java
+D:\Message_code_storage\project\AC_OJ\acoj-backend-microservice\acoj-backend-common\src\main\java\com\qsj\acojbackendcommon\exception\BusinessException.java
+D:\Message_code_storage\project\AC_OJ\acoj-backend-microservice\acoj-backend-common\src\main\java\com\qsj\acojbackendcommon\exception\GlobalExceptionHandler.java
+D:\Message_code_storage\project\AC_OJ\acoj-backend-microservice\acoj-backend-common\src\main\java\com\qsj\acojbackendcommon\constant\FileConstant.java
+D:\Message_code_storage\project\AC_OJ\acoj-backend-microservice\acoj-backend-common\src\main\java\com\qsj\acojbackendcommon\annotation\AuthCheck.java
+D:\Message_code_storage\project\AC_OJ\acoj-backend-microservice\acoj-backend-common\src\main\java\com\qsj\acojbackendcommon\common\BaseResponse.java
+D:\Message_code_storage\project\AC_OJ\acoj-backend-microservice\acoj-backend-common\src\main\java\com\qsj\acojbackendcommon\common\ErrorCode.java
+D:\Message_code_storage\project\AC_OJ\acoj-backend-microservice\acoj-backend-common\src\main\java\com\qsj\acojbackendcommon\utils\SqlUtils.java
+D:\Message_code_storage\project\AC_OJ\acoj-backend-microservice\acoj-backend-common\src\main\java\com\qsj\acojbackendcommon\common\PageRequest.java
