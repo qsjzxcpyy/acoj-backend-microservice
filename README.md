@@ -16,23 +16,23 @@
 ​	项目划分:
 
 ​	● 注册中心：Nacos
-​	● **微服务网关**（dzoj-backend-gateway）：Gateway 聚合所有的接口，统一接受处理前端的请求
+​	● **微服务网关**（acoj-backend-gateway）：Gateway 聚合所有的接口，统一接受处理前端的请求
 
 ​	公共模块：
 
-​		**common**公共模块（dzoj-backend-common）：全局异常处理器、请求响应封装类、公用的工具类等
+​		**common**公共模块（acoj-backend-common）：全局异常处理器、请求响应封装类、公用的工具类等
 
-​		**model** 模型模块（dzoj-backend-model）：很多服务公用的实体类
+​		**model** 模型模块（acoj-backend-model）：很多服务公用的实体类
 
-​		**公用接口**模块（dzoj-backend-service-client）：只存放接口，不存放实现（多个服务之间要共享的接口）
+​		**公用接口**模块（acoj-backend-service-client）：只存放接口，不存放实现（多个服务之间要共享的接口）
 
 ​	业务功能：
 
-​		**用户服务**（dzoj-backend-user-service：8102 端口）：注册,登录，用户管理
+​		**用户服务**（acoj-backend-user-service：8102 端口）：注册,登录，用户管理
 
-​		**题目服务**（dzoj-backend-question-service：8103 端口）：创建题目（管理员），删除题目（管理员），修改题目（管理员），搜索题目（用户），在线做题（题目详情页），题目提交
+​		**题目服务**（acoj-backend-question-service：8103 端口）：创建题目（管理员），删除题目（管理员），修改题目（管理员），搜索题目（用户），在线做题（题目详情页），题目提交
 
-​		**判题服务**（dzoj-backend-judge-service，8104 端口，较重的操作）：执行判题逻辑，错误处理（内存溢出、安全性、超时），自主实现 代码沙箱（安全沙箱），开放接口（提供一个独立的新服务）
+​		**判题服务**（acoj-backend-judge-service，8104 端口，较重的操作）：执行判题逻辑，错误处理（内存溢出、安全性、超时），自主实现 代码沙箱（安全沙箱），开放接口（提供一个独立的新服务）
 
 
 #### 安装教程
